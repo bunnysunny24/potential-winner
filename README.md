@@ -42,7 +42,7 @@ This is a simple Flask-based API for managing household tasks, expenses, and fam
 1. **Run the Flask server:**
 
     ```bash
-    python app.py
+    python house.py
     ```
 
 2. **Access the API:**
@@ -115,7 +115,7 @@ This is a simple Flask-based API for managing household tasks, expenses, and fam
 ```plaintext
 household-manager-api/
 │
-├── app.py                   # Main application file
+├── house.py                   # Main application file
 ├── requirements.txt         # Python packages required
 ├── README.md                # Project documentation
 └── venv/                    # Virtual environment
